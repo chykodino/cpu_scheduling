@@ -380,11 +380,7 @@ System tests verify end-to-end functionality:
    - Process scheduling interfaces
 
 ## Contributors
-
-[Add team member names and roles here]
-- Team Member 1 - Project Lead, Core Architecture
-- Team Member 2 - Scheduling Algorithms Implementation
-- Team Member 3 - Testing and Documentation
+@chykodino - Chikezie F. Igwebuike
 
 ## License
 
